@@ -1,5 +1,9 @@
 ### Hi there 👋 I'm Atakan!
 
+<a href="https://github.com/bakankaya/bakankaya">
+  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakankaya&layout=compact&langs_count=10&theme=transparent&card_width=320" />
+</a>
+
 I'm an aspiring web developer. Emphasizing on UI/UX design.
 
 Open Source and Linux Enthusiast.
@@ -8,7 +12,6 @@ Open Source and Linux Enthusiast.
 - 🌱 I’m currently learning Rust and Python
 - 📫 To reach me: batakankarakaya@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakankaya&layout=compact&langs_count=10&theme=transparent)
 
 #### Tech and Languages I'm familiar with;
 
