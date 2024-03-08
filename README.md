@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Atakan!
 
 <a href="https://github.com/bakankaya/bakankaya">
-  <img height=150 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakankaya&layout=compact&langs_count=10&theme=transparent&card_width=320" />
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakankaya&layout=compact&langs_count=10&theme=transparent&card_width=320" />
 </a>
 
 I'm an aspiring web developer. Emphasizing on UI/UX design.
