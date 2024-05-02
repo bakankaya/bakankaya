@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Atakan!
 
-I'm an aspiring web developer. Emphasizing on UI/UX design.
+I'm a web developer. Emphasizing on UI/UX design.
 
 Open Source and Linux Enthusiast.
 
 - 🔭 I’m currently open to work
-- 🌱 I’m currently learning Rust and Python
+- 🌱 I’m currently learning Rust and Java
 - 📫 To reach me: batakankarakaya@gmail.com
 
 <a href="https://github.com/bakankaya/bakankaya">
@@ -20,6 +20,7 @@ Open Source and Linux Enthusiast.
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
